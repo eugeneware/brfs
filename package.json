@@ -1,5 +1,5 @@
 {
-  "name": "brfs",
+  "name": "brfs-ignore",
   "version": "1.4.3",
   "description": "browserify fs.readFileSync() static asset inliner",
   "main": "index.js",
